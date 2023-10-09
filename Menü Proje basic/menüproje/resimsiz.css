@@ -1,0 +1,101 @@
+.Arkaplan{
+    background-image: url(https://images.freeimages.com/images/premium/previews/2658/26582541-cooking-seamless-background.jpg);
+    width: auto;
+    height: 1000px;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.logo{
+  background-color: BLACK;
+    width: auto;
+    height: 70px;
+}
+.kutu{
+    background-color: black;
+    width: 800px;
+    height: 800px;
+    margin-left: 500px;
+
+}
+#yazi{
+    color: aliceblue;
+    font-weight: bold;
+    font-style: italic;
+   font-family: Arial;
+    text-align: center;
+}
+#yazi2{
+   
+    color: aliceblue;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: arial;
+   float: left;
+   padding-top: 10px;
+
+}
+#yazi3{
+    color: aliceblue;
+    font-size: 20px;
+    font-family: arial;
+    font-weight: bold;
+    float: right;
+    padding-top: 10px;
+    
+}
+.ortakısım{
+    background-color: gray;
+    width: auto;
+    height: 300px;
+}
+.ul{
+    float: left;
+    line-height: 40px;
+    font-style: italic;
+    font-size: 25px;
+    padding-top: 10px;
+}
+.ul2{
+    float: right;
+    line-height: 40px;
+    font-style: italic;
+    font-size: 25px;
+    padding-top: 10px;
+}
+.altkisim{
+    background-color:gray;
+    width: auto;
+    height: 500px;
+}
+.baslik2{
+    text-align: center;
+    font-weight: bold;
+    font-size: 35px;
+    width: auto;
+    height: 50px;
+    background-color: aliceblue;
+}
+
+.ul3{
+    float: right;
+    line-height: 40px;
+    font-style: italic;
+    font-size: 25px;
+    padding-top: 15px;
+}
+.ul4{
+    float: left;
+    line-height: 40px;
+    font-style: italic;
+    font-size: 25px;
+    padding-top: 15px;
+}
+.baslık3{
+    font-style: oblique;
+    font-weight: bold;
+    font-size: 30px;
+    padding-top: 400px;
+    text-align: center;
+}
